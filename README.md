@@ -13,7 +13,7 @@
 13. Dann auf "Anderes Symbol..." klicken
 14. Danach auf "Durchsuchen" klicken
 15. Jetzt auf "shutdown-main" doppelt klicken
-16. "shutdown.png auswählen
+16. "shutdown.ico auswählen
 17. Auf "Öffnen" klicken
 18. Dann auf "Ok" klicken
 19. Danach nochmal auf "Ok" klicken

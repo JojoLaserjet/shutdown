@@ -6,7 +6,7 @@
 6. Wunschverzeichnis (z.B. Downloads) auswählen
 7. Auf "extrahieren" klicken
 8. Auf "shutdown-main" klicken
-9. Einmal mit links draufklicken, dann mit rechts und dann auf "Weitere Optionen anzeigen" klicken
+9. Einmal mit links auf "shutdown" draufklicken, dann mit rechts und dann auf "Weitere Optionen anzeigen" klicken
 10. Dann auf "Verknüpfung erstellen" klicken
 11. Warten bis die Verknüpfung erstellt wurde
 12. Einmal mit links auf die Verknüpfung draufklicken, dann mit rechts und dann auf "Eigenschaften" klicken
